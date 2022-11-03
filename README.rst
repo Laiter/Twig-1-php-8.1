@@ -1,3 +1,10 @@
+🔴 IMPORTANT NOTE 🔴
+=====================
+
+This branch contains some fixes to support Twig 1 and PHP 8.1 in my legacy apps. I have not tested the entire framework, so there is no guarantee that it will work for you. 
+
+https://github.com/Laiter/Slim-2-php-8.1
+
 Twig, the flexible, fast, and secure template language for PHP
 ==============================================================
 
